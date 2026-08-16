@@ -1,4 +1,3 @@
-# Gurp5.github.io
 # Personal Portfolio
 
 Welcome to my personal portfolio.
